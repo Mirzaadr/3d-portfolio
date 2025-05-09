@@ -1,34 +1,21 @@
 import {
-  mobile,
   backend,
   creator,
-  web,
-  javascript,
-  typescript,
-  html,
   css,
-  reactjs,
-  redux,
-  tailwind,
-  nodejs,
-  mongodb,
-  git,
-  figma,
   docker,
-  meta,
-  starbucks,
-  tesla,
-  shopify,
-  carrent,
-  jobit,
-  tripguide,
-  threejs,
   dotnetcore,
-  flutter,
-  sqlserver,
+  figma,
+  git,
+  html,
+  javascript,
+  mobile,
+  nodejs,
   postgresql,
-  kubernetes,
-  googlecloud,
+  reactjs,
+  sqlserver,
+  tailwind,
+  typescript,
+  web,
 } from "@/assets";
 
 export const navLinks = [
@@ -359,4 +346,4 @@ const projects = [
 //   },
 // ];
 
-export { services, technologies, experiences, testimonials, projects };
+export { experiences, projects, services, technologies, testimonials };

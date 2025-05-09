@@ -3,12 +3,11 @@ import {
   About,
   Contact,
   Experience,
-  Feedbacks,
   Hero,
   Navbar,
+  StarsCanvas,
   Tech,
   Works,
-  StarsCanvas,
 } from "./components";
 
 function App() {
